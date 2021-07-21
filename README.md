@@ -51,19 +51,19 @@
 
 #### Login Pages
 
-<img src="https://github.com/Sayan9696/Online-Examination-System-using-Adjava/blob/master/screenshot1.jpg">
+<img src="https://github.com/Sayan9696/Login-Authentication-Project-using-Angular-and-ADJAVA/blob/master/SS1.jpg">
 
-<img src="https://github.com/Sayan9696/Online-Examination-System-using-Adjava/blob/master/screenshot1.jpg">
+<img src="https://github.com/Sayan9696/Login-Authentication-Project-using-Angular-and-ADJAVA/blob/master/ss3.jpg">
 
 #### Login Successful Pages
 
-<img src="https://github.com/Sayan9696/Online-Examination-System-using-Adjava/blob/master/screenshot1.jpg">
+<img src="https://github.com/Sayan9696/Login-Authentication-Project-using-Angular-and-ADJAVA/blob/master/sayan.jpg">
 
-<img src="https://github.com/Sayan9696/Online-Examination-System-using-Adjava/blob/master/screenshot1.jpg">
+<img src="https://github.com/Sayan9696/Login-Authentication-Project-using-Angular-and-ADJAVA/blob/master/prithi.jpg">
 
 #### Register Page
 
-<img src="https://github.com/Sayan9696/Online-Examination-System-using-Adjava/blob/master/screenshot1.jpg">
+<img src="https://github.com/Sayan9696/Login-Authentication-Project-using-Angular-and-ADJAVA/blob/master/SS2.jpg">
 
 ## Developed by
 
